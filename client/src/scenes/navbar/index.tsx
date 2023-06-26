@@ -4,11 +4,7 @@ import BarChartIcon from "@mui/icons-material/BarChart";
 import { Box, Typography, useTheme } from "@mui/material";
 import FlexBetween from "@/components/FlexBetween";
 
-// eslint-disable-next-line @typescript-eslint/ban-types
-type Props = {};
-
-// eslint-disable-next-line @typescript-eslint/ban-types
-const Navbar = (props: Props) => {
+const Navbar = () => {
   const { palette } = useTheme();
   const [selected, setSelected] = useState("dashboard");
   return (
