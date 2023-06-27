@@ -1,11 +1,12 @@
-# financeapp
+# mern-financeApp
 This is a Finance Dashboard application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) . The frontend is built with Vite as the starter application, Redux Toolkit for state management, Material UI for the component library, and Recharts for charts and data visualization. The backend utilizes Node.js as the runtime, Express.js as the backend framework, and MongoDB for the database.
 
 ## Demo
 
 Check out the live demo of the app [here](https://financeapp-five.vercel.app/).
-<img width="1440" alt="Screenshot 2023-06-27 at 8 10 12 PM" src="https://github.com/Vigneshk5/financeapp/assets/97999742/2e8e53eb-e8d5-4ce1-9ae3-6c5cb343163c">
-<img width="1440" alt="Screenshot 2023-06-27 at 8 10 28 PM" src="https://github.com/Vigneshk5/financeapp/assets/97999742/8c9768c5-e4f5-47fa-9b63-132f5d0b6dec">
+<img width="1440" alt="Screenshot 2023-06-27 at 8 10 12 PM" src="https://github.com/Vigneshk5/mern-financeApp/assets/97999742/04723e9e-2319-4d84-9dcf-1f6504e0a451">
+<img width="1440" alt="Screenshot 2023-06-27 at 8 10 28 PM" src="https://github.com/Vigneshk5/mern-financeApp/assets/97999742/174736e0-c084-4e9e-82de-9921716cc942">
+
 
 ## Features
 -   Budgeting: Set and track monthly budgets for different categories.
